@@ -1,5 +1,4 @@
-# Amazon-clone
-<h1>Basic Amazon Clone HTML and CSS</h1>
+<h1>Basic Amazon Clone HTML and CSS (# Amazon-clone)</h1>
 <h2>Overview</h2>
 <p>This project is a static Amazon clone created using HTML and CSS. While it's not interactive or responsive, it provides a visual representation of Amazon's main page structure.</p>
 
